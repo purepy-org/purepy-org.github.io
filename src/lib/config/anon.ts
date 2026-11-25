@@ -18,8 +18,8 @@ export const public_config = {
   name: "PurePy",
   spec_version: SPEC_VERSION,
   logo,
-  github: "https://github.com/pure-py/pure-py-spec",
-  spec: `https://pure-py.github.io/pure-py-spec/v${SPEC_VERSION}/PurePy-spec.pdf`,
+  github: "https://github.com/purepy-org/purepy-spec",
+  spec: `https://purepy-org.github.io/purepy-spec/v${SPEC_VERSION}/PurePy-spec.pdf`,
   favicon: "/favicon.png",
   languages: [
     { name: "Fluid", url: "https://f.luid.org" },
